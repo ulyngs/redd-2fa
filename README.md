@@ -49,7 +49,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for release history.
 ## Screenshots
 
 <p align="center">
-  <img src="./docs/screenshots/R2FA-git-1.png" alt="Digital Habits: Phone-Free 2FA — 1" width="49%" />
+  <img src="./docs/screenshots/R2FA-git-1.png" alt="Digital Habits: Phone-Free 2FA — 1" width="50%" />
   <img src="./docs/screenshots/R2FA-git-3.png" alt="Digital Habits: Phone-Free 2FA — 2" width="49%" />
 </p>
 <p align="center">
